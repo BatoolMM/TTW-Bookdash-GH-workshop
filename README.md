@@ -9,7 +9,10 @@ Welcome to the Turing Way GitHub Workshop! In this hands-on session, you will le
 - Establishing a foundation for self-paced learning beyond this workshop.
 
 ## Workshop Participants:
+
 - .Lucy Stephenson
+- Fran Gómez
+- Batool Almarzouq
 - .
 
 We have prepared slides to guide you through the workshop. You can access them here: [Workshop Slides](https://docs.google.com/presentation/d/1RY7JDjrSx2DizxtBKRMcqPd9OFneL7f3IYDv4c_vHxY/edit#slide=id.g526267be46_0_606).
