@@ -9,6 +9,7 @@ Welcome to the Turing Way GitHub Workshop! In this hands-on session, you will le
 - Establishing a foundation for self-paced learning beyond this workshop.
 
 ## Workshop Participants:
+- [Pen-Yuan Hsing](https://github.com/penyuan/)
 - Johanna Bayer 
 - Andra Sonea
 - Patricia A. Loto
