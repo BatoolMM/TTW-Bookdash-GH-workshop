@@ -9,7 +9,10 @@ Welcome to the Turing Way GitHub Workshop! In this hands-on session, you will le
 - Establishing a foundation for self-paced learning beyond this workshop.
 
 ## Workshop Participants:
-
+- Andra Sonea
+- Patricia A. Loto
+- Lucy Stephenson
+- Virginia García Alonso
 - Fran Gómez
 - Batool Almarzouq
 - David Llewellyn-Jones
